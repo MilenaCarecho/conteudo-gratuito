@@ -24,6 +24,7 @@ Seu nome será inserido na lista de contribuidores após a aprovação do PR, at
 | [Beginner’s Guide to React](https://egghead.io/courses/the-beginner-s-guide-to-react ) | Cursos | Não | EN |
 | [Bora para prática!!!](https://www.youtube.com/user/boraparapratica/) | Youtube | Não | PT-BR |
 | [BrazilJS](https://www.youtube.com/user/BrazilJS) | YouTube | Não | PT-BR |
+| [Brincando com Ideias](https://www.youtube.com/channel/UCcGk83PAQ5aGR7IVlD_cBaw) | Youtube | Não | PT-BR |
 | [Cabeça de Lab](https://www.cabecadelab.com.br/ ) | Podcast | Não | PT-BR |
 | [CaveriaTech](https://www.youtube.com/user/caveiratech2) | Youtube | Não | PT-BR |
 | [Caelum](https://www.caelum.com.br/apostilas) | Apostilas |Não| PT-BR |
